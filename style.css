@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding:0%;
+    box-sizing: border-box;
+}
+body{
+    font-family: sans-serif;
+    background: url(/light_alu.png);
+
+}
+.container{
+    text-align: center;
+}
+.motkhoi h3:hover{
+    background: url(./1.png.png) no-repeat right 70% #f7f7f7;
+} 
+.hieuung{
+    justify-content: center;
+    width: 500px;
+    margin: auto;
+    margin-top: 60px;
+    padding: 10px 12px;
+}
+.motkhoi h3 {
+    padding: 10px 12px;
+    background-color:coral ;
+}
+h3.xanh {
+    background: blue;
+}
+h3.xanh:hover{
+    background: url(./2.png.jpg) no-repeat right 70% #f7f7f7;
+    
+}
